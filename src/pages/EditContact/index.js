@@ -4,7 +4,7 @@ import ContactForm from '../../components/ContactForm';
 export default function EditContact() {
   return (
     <>
-      <PageHeader title="Editar Mateus Silva" />
+      <PageHeader title="Editar zBigaBoga" />
       <ContactForm
         buttonLabel="Salvar alterações"
       />
